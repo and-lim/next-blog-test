@@ -1,0 +1,14 @@
+.postPage {
+  margin: 0 auto ;
+  font-size: 1.2em;
+  line-height: 1.5em;
+  max-width: 1200px;
+}
+
+.postPage h1{
+  margin: 1.5rem 0;
+  padding-top: 1rem;
+  font-size: 32px;
+  font-weight: bold;
+  text-decoration: underline;
+}
